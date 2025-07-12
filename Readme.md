@@ -120,8 +120,10 @@ http://localhost:8080/api/books/api/books/1
 ```
 ## 📦 Other Information
 ### ✅ Postman Collection included: 
-
-{library-postman-collection.json}
+- Copy & paste this in Postman inport go through this link
+```
+https://docs.google.com/document/d/1gbg3-NYCiC7yjbaIds_hguT30zPqQITBkfiTkywTxss/edit?usp=sharing
+```
 
 ### ❌ Database not used (in-memory only)
 
